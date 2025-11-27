@@ -11,7 +11,7 @@ Code and supplementary materials the paper "[Human Language Network Modeling wit
 
 ### Citation
 ```
-@InProceedings{KuhnSadiya_2025,
+@InProceedings{BrainMamba_2026,
   author    = {Sari Sadiya, and Anthea Hohmann, and Gemma Roig},
   title     = {Human Language Network Modeling with Selective State Spaces}, 
   booktitle = {ArXiv},
